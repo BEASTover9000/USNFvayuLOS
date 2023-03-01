@@ -34,21 +34,20 @@ fi
         sleep 1
     done
 
-    # Avoid breaking Realme fingerprint scanners
+    # Props from HuskyDG
+    resetprop sys.oem_unlock_allowed 0
+    resetprop init.svc.flash_recovery stopped
+
+    # avoid breaking Realme fingerprint scanners
     resetprop ro.boot.flash.locked 1
 
-    # Avoid breaking Oppo fingerprint scanners
+    # avoid breaking Oppo fingerprint scanners
     resetprop ro.boot.vbmeta.device_state locked
 
-    # Avoid breaking OnePlus display modes/fingerprint scanners
+    # avoid breaking OnePlus display modes/fingerprint scanners
     resetprop vendor.boot.verifiedbootstate green
 
-    # Safetynet (avoid breaking OnePlus display modes/fingerprint scanners on OOS 12)
-    resetprop ro.boot.verifiedbootstate green
-    resetprop ro.boot.veritymode enforcing
-    resetprop vendor.boot.vbmeta.device_state locked
-
-    # Avoid breaking encryption, set shipping level to 32 for devices >=33 to allow for software attestation
+    # avoid breaking encryption, set shipping level to 32 for devices >=33 to allow for software attestation.
     if [[ "$(getprop ro.product.first_api_level)" -ge 33 ]]; then
         resetprop ro.product.first_api_level 32
     fi
