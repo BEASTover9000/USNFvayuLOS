@@ -4,7 +4,7 @@
 
 - **Play Integrity bypass** without breaking device checks or causing other issues
 - Disabled use of hardware attestation on Pixel 7 and newer (@anirudhgupta109)
-- Added lineageos tweaks
+- Added lineageos 19.1 tweaks
 
 ## Other changes
 
