@@ -25,13 +25,6 @@ ro.build.type=user
 ro.debuggable=0
 ro.secure=1
 
-# Props from realakeera
-ro.product.model=GM1917
-ro.product.odm.model=GM1917
-ro.product.system.model=GM1917
-ro.product.vendor.model=GM1917
-ro.product.system_ext.model=GM1917
-
 # Props from ez-me
 ro.lineage.device=
 ro.lineage.version=
