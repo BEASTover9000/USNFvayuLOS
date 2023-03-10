@@ -2,4 +2,4 @@
 
 ## Highlights
 
-- Added LineageOS Tweaks
+- Added LineageOS Tweaks For Vayu
