@@ -2,4 +2,4 @@
 
 ## Highlights
 
-- Added Lineageos 19.1 Tweaks
+- Added LineageOS Tweaks
