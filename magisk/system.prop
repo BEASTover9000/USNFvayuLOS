@@ -3,9 +3,6 @@
 # RootBeer, Microsoft
 ro.build.tags=release-keys
 
-# Google
-ro.com.google.build.fingerprint=google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
-
 # Samsung
 ro.boot.warranty_bit=0
 ro.vendor.boot.warranty_bit=0
