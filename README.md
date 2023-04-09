@@ -21,7 +21,3 @@ See [Details](docs/details.md) for details about how this module works.
 ## ROM integration
 
 Ideally, this workaround should be incorporated in custom ROMs instead of injecting code with a Magisk module. See the [ProtonAOSP website](https://protonaosp.org/developers/details/safetynet) for more information.
-
-## Support
-
-If you found this module helpful, please consider supporting development with a **[recurring donation](https://patreon.com/kdrag0n)** on Patreon for benefits such as exclusive behind-the-scenes development news, early access to updates, and priority support. Alternatively, you can also [buy kdrag0n a koffee](https://paypal.me/kdrag0ndonate). All support is appreciated.
