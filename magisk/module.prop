@@ -4,4 +4,4 @@ version=v2.4.1
 versionCode=20401
 author=BEASTover9000
 description=A universal fix for SafetyNet and Play Integrity on Android 8–13 devices with hardware attestation.
-updateJson=https://raw.githubusercontent.com/BEASTover9000/USNFvayuLOS/master/update.json
+updateJson=https://raw.githubusercontent.com/ToucH9000/USNFvayuLOS/master/update.json
