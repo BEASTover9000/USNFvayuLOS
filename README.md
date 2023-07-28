@@ -16,7 +16,7 @@ Install the downloaded module in Magisk Manager, then **enable Zygisk in Magisk 
 
 ## How does it work?
 
-See [Details](docs/details.md) for details about how this module works.
+See [Details](Docs/Details.md) for details about how this module works.
 
 ## ROM integration
 
