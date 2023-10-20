@@ -1,5 +1,5 @@
-# v2.4.1
+# v2.4.2
 
 ## Highlights
 
-- Added LineageOS Tweaks For Vayu
+- Removing "Abnormal Environment" Detection From "NativeTest-v14" App
