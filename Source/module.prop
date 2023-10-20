@@ -1,7 +1,7 @@
 id=safetynet-fix
 name=USNFvayuLOS
-version=v2.4.1
-versionCode=20401
+version=v2.4.2
+versionCode=20402
 author=ToucH9000
-description=A universal fix for SafetyNet and Play Integrity on Android 8–13 devices with hardware attestation.
+description=Universal Pain Killer For Google.
 updateJson=https://raw.githubusercontent.com/ToucH9000/USNFvayuLOS/master/update.json
