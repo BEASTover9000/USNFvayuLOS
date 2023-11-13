@@ -1,5 +1,5 @@
-# v2.4.2
+# v2.4.3
 
 ## Highlights
 
-- Removing "Abnormal Environment" Detection From "NativeTest-v14" App
+- Upstream with chiteroman's repo
