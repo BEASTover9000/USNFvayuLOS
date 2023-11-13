@@ -1,7 +1,7 @@
 id=safetynet-fix
 name=USNFvayuLOS
-version=v2.4.2
-versionCode=20402
+version=v2.4.3
+versionCode=20403
 author=ToucH9000
 description=Universal Pain Killer For Google.
 updateJson=https://raw.githubusercontent.com/ToucH9000/USNFvayuLOS/master/update.json
