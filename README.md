@@ -1,4 +1,4 @@
-# USNFvayuLOS
+# USNFvayuLOS (Deprecated)
 
 Magisk module to work around Google's SafetyNet and Play Integrity attestation in LineageOS for POCO X3 Pro.
 
