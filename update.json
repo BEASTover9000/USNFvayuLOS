@@ -1,6 +1,5 @@
 {
-    "version": "v2.4.3",
-    "versionCode": 20403,
-    "zipUrl": "https://github.com/ToucH9000/USNFvayuLOS/releases/download/v2.4.3/USNFvayuLOS-v2.4.3.zip",
-    "changelog": "https://raw.githubusercontent.com/ToucH9000/USNFvayuLOS/master/CHANGELOG.md"
+    "version": "v13.0",
+    "versionCode": 130,
+    "zipUrl": "https://github.com/ToucH9000/PIFvayuLOS/releases/download/v13/PIFvayuLOS-v13.zip",
 }
